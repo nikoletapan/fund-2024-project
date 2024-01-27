@@ -2,4 +2,8 @@
 SoftUni
 First row added
 Second row added
+
+Test for conflict
+
 Change after firstbranch is added
+
